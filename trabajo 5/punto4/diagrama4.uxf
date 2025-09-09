@@ -1,0 +1,11 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>400</x><y>90</y><w>210</w><h>190</h></coordinates><panel_attributes>TarjetaDeCrédito
+--
+numero: int
+fechaVencimiento: String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>250</x><y>370</y><w>210</w><h>190</h></coordinates><panel_attributes>Cliente
+--
+nombre: String
+dni: String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>550</x><y>370</y><w>210</w><h>190</h></coordinates><panel_attributes>Banco
+--
+nombre: String
+cuit: String</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>270</y><w>170</w><h>120</h></coordinates><panel_attributes>lt=&lt;-&gt;</panel_attributes><additional_attributes>10;100;150;10</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>270</y><w>190</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>170;100;10;10</additional_attributes></element></diagram>
