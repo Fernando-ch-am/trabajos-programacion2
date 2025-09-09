@@ -1,0 +1,11 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>190</x><y>460</y><w>210</w><h>190</h></coordinates><panel_attributes>FirmaDigital
+--
+codigoHash: String
+fecha: String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>460</y><w>210</w><h>190</h></coordinates><panel_attributes>Usuario
+--
+nombre: String
+email: String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>200</y><w>210</w><h>190</h></coordinates><panel_attributes>Documento
+--
+titulo:String
+contenido: String</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>380</y><w>210</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;80;190;10</additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>550</y><w>150</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>130;10;10;10</additional_attributes></element></diagram>
